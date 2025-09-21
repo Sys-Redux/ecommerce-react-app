@@ -11,7 +11,7 @@ function App() {
       price: 19999.99,
       description: 'The most powerful GPU for AI and HPC workloads.',
       category: 'gpu',
-      image: '/public/assets/gpu.jpg'
+      image: '/assets/gpu.jpg'
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ function App() {
       price: 389.98,
       description: 'A sturdy and spacious server chassis for your computing needs.',
       category: 'chassis',
-      image: '/public/assets/chassis.jpg'
+      image: '/assets/chassis.jpg'
     },
     {
       id: 3,
@@ -27,7 +27,7 @@ function App() {
       price: 759.00,
       description: 'A reliable motherboard designed for server applications.',
       category: 'motherboard',
-      image: '/public/assets/mobo.png'
+      image: '/assets/mobo.png'
     },
     {
       id: 4,
@@ -35,7 +35,7 @@ function App() {
       price: 699.99,
       description: 'A high-performance processor for data centers and enterprise applications.',
       category: 'processor',
-      image: '/public/assets/cpu.png'
+      image: '/assets/cpu.png'
     },
   ])
 
